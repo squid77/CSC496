@@ -137,4 +137,3 @@ Here are the papers and projects that you may select for each topic. Other paper
 
 I would prefer to give my presentation:
 - Before the midterm
-- After the midterm
