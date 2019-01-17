@@ -78,8 +78,8 @@ Here are the papers and projects that you may select for each topic. Other paper
   <li>Henry, Nathalie, and Jean-Daniel Fekete. "Matrixexplorer: a dual-representation system to explore social networks." Visualization and Computer Graphics, IEEE Transactions on 12.5 (2006): 677-684.</li>
   <li>Chang, R., Ghoniem, M., Kosara, R., Ribarsky, W., Yang, J., Suma, E., ... & Sudjianto, A. (2007, October). Wirevis: Visualization of categorical, time-varying data from financial transactions. In Visual Analytics Science and Technology, 2007. VAST 2007. IEEE Symposium on (pp. 155-162). IEEE.</li>
   <li>Mackinlay, J. D., Robertson, G. G., & Card, S. K. (1991, March). The perspective wall: Detail and context smoothly integrated. In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 173-176). ACM.</li>
-  <li>Robertson, G. G., Mackinlay, J. D., & Card, S. K. (1991, April). Cone trees: animated 3D visualizations of hierarchical information. In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 189-194). ACM.</li>
-  <li>Visualizing MBTA, Mike Barry and Brian Card<br><a href="https://mbtaviz.github.io/">https://mbtaviz.github.io/</a></li>
+
+
   <li>Evolution of Music Tastes, Pudding<br><a href="https://pudding.cool/2017/03/music-history/index.html">https://pudding.cool/2017/03/music-history/index.html</a></li>
 
   <li>Stasko, J., Görg, C., & Liu, Z. (2008). Jigsaw: supporting investigative analysis through interactive visualization. Information visualization, 7(2), 118-132.</li>
