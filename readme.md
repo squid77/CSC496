@@ -30,10 +30,7 @@ The purpose of this talk is to review a visualization project or paper in a crit
 ## Available Projects
 
 Here are the papers and projects that you may select for each topic. Other papers may be acceptable at the instructor's discretion, just get permission beforehand. Choose carefully! Most of all, the topic and paper should interest you. The projects differ in length of coverage: while a shorter paper or article may take less time to read, it will also mean that you have less material to work with for slides. In any case, you are encouraged to talk about how the projects relates to something that interests you. Remember, the point is to communicate the highlights while also engaging the class.
-
-<ol>
   <li>A Visual Introduction to Machine Learning Part 1, R2D3<br><a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/">http://www.r2d3.us/visual-intro-to-machine-learning-part-1/</a></li>
-  <li>Battling Infectious Diseases in the 20th Century: The Impact of Vaccine, The Wall Street Journal<br><a href="http://graphics.wsj.com/infectious-diseases-and-vaccines/">http://graphics.wsj.com/infectious-diseases-and-vaccines/</a></li>
   <li>Snow Fall, The NY Times<br><a href="http://www.nytimes.com/projects/2012/snow-fall/">http://www.nytimes.com/projects/2012/snow-fall/</a></li>
   <li>A Field Guide to Red and Blue America, The Wall Street Journal <br><a href="http://graphics.wsj.com/elections/2016/field-guide-red-blue-america/">http://graphics.wsj.com/elections/2016/field-guide-red-blue-america/</a></li>
   <li>Borland, D., & Taylor II, R. M. (2007). Rainbow color map (still) considered harmful. IEEE computer graphics and applications, 27(2), 14-17.</li>
