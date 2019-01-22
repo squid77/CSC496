@@ -39,4 +39,5 @@ Here are the papers and projects that you may select for each topic. Other paper
 ## Schedule Preference
 
 I would prefer to give my presentation:
-- Before the midterm
+- Before the midterm please
+
